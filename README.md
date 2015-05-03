@@ -1,4 +1,10 @@
 # Dynamite-Git-Example
-Example Repo
+**********************
+
+A throwaway experimental reop for a Git tutorial
 
 Let's learn Git Basics togeher
+
+hey
+
+
